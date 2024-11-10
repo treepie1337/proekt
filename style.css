@@ -16,6 +16,9 @@ nav {
 
 
 }
+main h2 {
+    text-align:center;
+}
 main h1 {
     font-size: 25px;
     background-color: lightblue;
